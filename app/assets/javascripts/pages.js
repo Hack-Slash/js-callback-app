@@ -8,8 +8,8 @@ function changeColors() {
       var thirdOne = document.getElementById('third');
       thirdOne.style.color = 'green';
       setTimeout(function() {
-      var fourthOne = document.getElementById('fourth');
-      fourthOne.style.color = 'orange';
+        var fourthOne = document.getElementById('fourth');
+        fourthOne.style.color = 'orange';
 
       }, 2000)
     }, 2000)
